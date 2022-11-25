@@ -1,7 +1,4 @@
-```
-!                          LALOL#9009
-```
-# Backup account
+# General account
 ```
 !                          LALOL#1500
 ```
